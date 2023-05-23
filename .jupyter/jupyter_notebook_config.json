@@ -7,6 +7,7 @@
                 "rucio_base_url": "https://rucio-intertwin-testbed.desy.de",
                 "rucio_auth_url": "https://rucio-intertwin-testbed.desy.de",
                 "mode": "download",
+		"rucio_ca_cert": "/home/jovyan/lets-encrypt-r3.pem",
 		"oidc_file_name": "/var/run/secrets/egi.eu/access_token"
             }
         ]
