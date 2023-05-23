@@ -9,7 +9,7 @@
                 "mode": "download",
 		"rucio_ca_cert": "/opt/conda/lib/python3.8/site-packages/certifi/cacert.pem",
 		"oidc_auth": "file",
-		"oidc_file_name": "/var/run/secrets/egi.eu/access_token"
+		"oidc_file_name": "/home/jovyan/access_token"
             }
         ]
     }
