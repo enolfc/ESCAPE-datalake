@@ -5,7 +5,7 @@
                 "name": "replay.notebooks.egi.eu",
                 "display_name": "EGI Replay",
                 "rucio_base_url": "https://rucio-intertwin-testbed.desy.de",
-                "rucio_auth_url": "https://rucio-intertwin-testbed.desy.de",
+                "rucio_auth_url": "https://rucio-intertwin-testbed-auth.desy.de",
                 "mode": "download",
 		"rucio_ca_cert": "/opt/conda/lib/python3.8/site-packages/certifi/cacert.pem",
 		"oidc_auth": "file",
